@@ -9,7 +9,10 @@
 		2. vue init simulatedgreg/electron-vue my-project
 		3. 参考文档 <https://simulatedgreg.gitbooks.io/electron-vue/content/cn/>
 	2. 运行
-		1. 
+		1. npm install
+		2. npm run dev
+		3. npm run build
+		4. npm run lint
 
 1. [+] 0.1.0 纯 electron
 
